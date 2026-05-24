@@ -1,0 +1,9 @@
+streamlit==1.40.2
+yfinance==0.2.51
+pandas
+numpy
+requests
+feedparser
+plotly
+beautifulsoup4
+lxml
